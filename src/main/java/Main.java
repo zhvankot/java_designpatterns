@@ -25,7 +25,7 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        int b;
+        
         
         //Abstract Factory
         AbstractFactory adidasFactory = FactoryGenerator.getFactory("Adidas");
